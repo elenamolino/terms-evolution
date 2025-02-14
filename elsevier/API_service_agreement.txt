@@ -3,132 +3,48 @@ PLEASE READ THE FOLLOWING TERMS AND CONDITIONS CAREFULLY. THESE TERMS AND CONDIT
 
 1 ACKNOWLEDGEMENT AND ACCEPTANCE
 
-1.1 The application programmable interfaces service (the "API Service") owned and operated by Elsevier B.V. ("Elsevier") is provided to ("You", "Your" or "the Developer") under the terms and conditions of this API Service Agreement, including any attachments thereto which are hereby incorporated by this reference (the "Agreement"). You confirm that You are of the legal age of majority in the jurisdiction where You reside (at least 18 years of age in many countries) and that You have the right and authority to enter into this Agreement.
-
-You accept and agree to the terms and conditions of this Agreement on Your own behalf and/or on behalf of Your company, institute or organization as its authorized legal representative by clicking the "I Agree to the API Service Agreement" check box and clicking the "Register Site" button.
+1.1 The application programmable interfaces service (the "API Service") owned and operated by Elsevier B.V. ("Elsevier") is provided to ("You", "Your" or "the Developer") under the terms and conditions of this API Service Agreement. You confirm that You have the right and authority to enter into this Agreement. You accept and agree to the terms and conditions of this Agreement on Your own behalf and/or on behalf of Your company, institute or organization as its authorized legal representative
 
 1.2 Elsevier reserves the right, at its sole discretion, to change the terms of this Agreement at any time with reasonable advance notice given to the Developer. When these changes are made, Elsevier will make a new copy of the Agreement available on the API Service's web site. Elsevier will also post a notification on the API Service's web site describing the modifications made.
 
-1.3  Elsevier grants You a limited license to use the, application programmable interfaces ("APIs"), data, files and other materials provided by Elsevier, to develop and test Your software application ("Application") and to integrate the Application with the API, in accordance with the API Documentation to enable the inclusion of content and data from the Services in the Developer Application ("Integration"), subject to the usage restrictions as set forth in the  API's Content Usage Policies on /policy.html.
-
-1.4 Elsevier claims no ownership or control over the Application. Elsevier is not responsible for protecting any rights You may have in the Application.
+1.3 Elsevier grants You a limited license to use the, application programmable interfaces ("APIs"), data, files and other materials provided by Elsevier, to develop and test Your software application ("Application") and to integrate the Application with the API, subject to the usage restrictions as set forth in the API's Content Usage Policies on http://dev.elsevier.com/policy.html. All notices given pursuant to this Agreement shall be in writing and delivered to email address as indicated in the developer portal at dev.elsevier.com.
 
 2. ELSEVIER RIGHTS AND OBLIGATIONS.
 
-2.1 Upon full execution of this Agreement, Elsevier will deliver to Developer the API specification ("API Documentation") including query algorithms and cryptographic API Keys, for the purpose of enabling Developer to construct and implement the Integration.
+2.1 After You have accepted this Agreement, Elsevier will issue an API Key to You for use with the API Service. Elsevier retains the right to immediately suspend the Application's access to the API Service if, in Elsevier's sole judgment:
 
-2.2 Nothing in this agreement obligates elsevier to list, link to, host, or otherwise endorse your application.
-
-2.3 Any press releases regarding this Agreement or the relationship of the parties shall require the prior approval of the parties.
+the Application's usage of the API Service negatively affects the availability or performance of the API Service, or
+the Application is in breach of the API's Content Usage Policies on http://dev.elsevier.com/policy.html
+2.2 In a situation of breach of the terms and conditions of this Agreement, Elsevier reserves the right to block, change, suspend, remove or disable access to the APIs and any of its services at any time upon reasonable notice to Developer.
 
 3. DEVELOPER RIGHTS AND RESPONSIBILITIES.
 
 3.1 The Developer represents and warrants that:
 
-3.1.1  the Developer will not use robots, spiders or any other device which could retrieve or index portions of the Elsevier website, the Elsevier content or the APIs for any unauthorized purpose;
+3.1.1 the Application will not use Elsevier content other than allowed by the API's Content Usage Policies on http://dev.elsevier.com/policy.html;
 
-3.1.2 the Developer will not download, scrape or transmit any portion of the Elsevier content, Elsevier website unless expressly authorized by Elsevier under this Agreement;
+3.1.2 the Application will use the API Key issued by Elsevier upon execution of this Agreement, and no other API Key issued for use by other applications and/or to other developers;
 
-3.1.3 the Developer shall not copy, adapt, reformat, reverse engineer, disassemble, decompile, translate or otherwise modify the Elsevier content, APIs, website or any of the Elsevier services and products other than content as developed by the Developer or as authorized by Elsevier under this Agreement;
+3.1.3 the Application will avoid excessive and unnecessary use of the API Service that may cause a performance degradation of the API Service;
 
-3.1.4 the Developer acknowledges that all right, title and interest in and to the Elsevier content, and any derivative works based upon the Elsevier content, remain with Elsevier and its suppliers,  except  as expressly  set forth  in this  Agreement,  and  that  the  unauthorized redistribution of the Elsevier content is not permitted.
+3.1.4 the Developer acknowledges that all right, title and interest in and to the Elsevier content, and any derivative works based upon the Elsevier content, remain with Elsevier and its suppliers, except as expressly set forth in this Agreement, and that the unauthorized redistribution of the Elsevier content is not permitted.
 
-3.2 The Developer agrees to be responsible for all support, development, hosting and maintenance of the Application.
+3.2 The Developer will be solely responsible and hold Elsevier harmless for all costs, expenses, losses and liabilities incurred, and activities undertaken by the Developer in connection with the API Service.
 
-3.3 The Developer will be solely responsible for all costs, expenses, losses and liabilities incurred, and activities undertaken by the Developer in connection with API Service. Upon reasonable request by Elsevier, the Developer will provide Elsevier access to the Application and any other content or material related to the use of the Application as requested by Elsevier to ensure compliance with the terms and conditions of this Agreement. In the event Elsevier detects non-compliance, the Developer shall be granted thirty days to remediate prior to denying access to the API Service by Elsevier.
+3.3 Developer shall obtain written permission in advance from Elsevier to use Elsevier's trademarks, logos or other brand features for promoting the Developer's Application. Any press releases regarding this Agreement or the relationship of the parties shall require the prior approval of the parties.
 
-3.4 Developer shall obtain written permission in advance from Elsevier to use Elsevier's trademarks, logos or other brand features solely for the purpose of promoting the Developer's Applications. In the event permission is granted by Elsevier,   You will not display  Elsevier's trademarks, logos or brand features in a manner that is misleading, defamatory, obscene  or otherwise  be objectionable  to Elsevier  or which  suggests  that Elsevier  created, sponsored or endorsed Your Application. The Developer shall have the right to advertise and market the Application independent of Elsevier.
+3.4 The Developer shall not display any advertising inside the Application or use any content as obtained via the API outside the Application, unless permitted by Elsevier in writing.
 
-3.5 The Developer shall not display any advertising inside the Application or use any content as obtained via the API outside the Application, unless permitted by Elsevier in writing.
+4. DISCLAIMER.
 
-3.6 The Developer will not act in any manner which conflicts or interferes with any existing commitment or obligation the Developer may have and no agreement previously entered into by the Developer will interfere with the obligations under this Agreement.
+The API service is provided on an "as is" and "as available" basis without warranties of any kind, either express or implied, including but not limited to warranties of merchantability or fitness for a particular purpose. Except as expressly stated in this Agreement, each party disclaims all liability to the other party in connection with the parties' performance of this Agreement and in no event will the infringing party be liable to the other party for special, indirect or consequential damages including but not limited to loss of profits, loss of business or unfitness for user purposes.
 
-4. API.
+5. TERM AND TERMINATION.
 
-4.1 Elsevier hereby grants to Developer a royalty-free, non-transferable, non-exclusive, worldwide license to integrate the Application with a set of proprietary APIs, in accordance with the API documentation solely to enable the inclusion of content and data retrieved through the APIs in the Application, for the purpose of developing, testing and supporting the Application and enabling  users of the Developer Application to dynamically access data made available by the APIs.
+The term of this Agreement shall commence on the date on which the Developer has accepted this Agreement and shall continue until either party terminates the Agreement in writing or the API Key has not been used to access the API Service for at least 90 days.
 
-4.2 Upon full execution of this Agreement, Elsevier will deliver to Developer the APIs keys for secure access ("API Keys") to enable Developer to use the proprietary APIs to develop the Application. You may not sell, transfer, sublicense or otherwise disclose the API Keys to any other party or use them with any other Application other than for the purposes as described in this Agreement. You are responsible  for maintaining  up to date  information  about  Your  contact  information  on the Developer's registration form and You may not modify or attempt to circumvent the key for secure access to the APIs. Each party will be solely responsible for the content and operation of their respective products and services, including all the development costs related thereto and the handling of all customer service inquiries and arrangements to allow access to respective new users, provided that, each party will promptly pass to the other all user requests for information about the other party's products and services.
-
-4.3 Developer shall provide Elsevier with an opportunity to test to validate that the Integration complies with the API Documentation and operates successfully in the Application in accordance with the API Documentation.  Elsevier shall have thirty (30) days thereafter ("Test Period") to test the Integration and advise Developer of any non-conformance.  If no notice of non-conformance is received by Developer before the end of the Test Period, the Integration shall be deemed to be constructed in accordance with the API Documentation and Developer may deploy the Integration to Authorized Users of the Application.  Elsevier shall have the right to deactivate access to the API Service for the API Keys provided to the Developer for use with the Application, if (a) the Application has not started using the API Service within six months following the delivery of the API Keys, or (b) the Application has not been accessing the API Service for at least a year since its last access.
-
-4.4 Elsevier reserves the right to block, change, suspend, remove or disable access to the APIs and any of its services at any time upon reasonable notice to Developer.
-
-5 INDEMNIFICATION.
-
-To the extent permitted by law, the Developer agrees to indemnify and hold harmless, and upon Elsevier's request defend, Elsevier, and its parent, subsidiaries, affiliates, officers, directors, shareholders, employees and agents, from any and all claims, losses, liabilities, damages, taxes, expenses and costs, including reasonable attorney's fees, incurred and arising out of Developer's use of the      API  Service, the acceptance  of rejection  of Developer's submitted Application, any alleged violation of this Agreement by Developer, or any alleged violation of any privacy or intellectual or proprietary rights of others. Elsevier reserves the right, at its own expense, to assume the exclusive defence and control of any matter subject to indemnification by Developer, which shall not excuse Developer's indemnity obligations.
-
-6 DISCLAIMER.
-
-Except as set forth in this agreement, the API service is provided on an "as is" and "as available" basis without warranties of any kind, either express or implied, including but not limited to warranties of merchantability or fitness for a particular purpose, neither this agreement nor any documentation furnished under it is intended to express or imply any warranty that the API service will be uninterrupted, timely or error-free. Elsevier, and its parents, subsidiaries, affiliates, officers, directors, shareholders, employees and agents, shall not be liable, under any circumstances of legal theories whatsoever, for any loss of business, profits or goodwill, loss of use of data, interruption of business, or forany indirect, special, incidental or consequential damages of any nature, even if Elsevier is aware of the risk of such damages, that result in any way from developer's use of or inability to use the API service, Elsevier's acceptance or rejection of the application, or Elsevier continued listing or termination of listing of an application in the API service. Elsevier's liability to Developer shall not, for any reason, exceed the amount actually paid by Elsevier to Developer under this agreement.
-
-7 TERM AND TERMINATION.
-
-7.1 Term.
-
-Subject to earlier termination pursuant to the terms of this Agreement, the term of this Agreement shall commence on the date on which the Developer has accepted this Agreement and shall continue until the either party terminates the Agreement in writing in accordance with sections 7.2 below (the "Term").
-
-7.2 Termination
-
-7.2.1 This Agreement may be terminated by either party forthwith in the event:
-
-(a) a party is in material breach of any non-payment term, condition or provision of this Agreement, which breach, if capable of being cured, is not cured within thirty (30) days after the non-breaching party gives the breaching party written notice of such breach; or
-
-(b) a party (i) terminates or suspends its business, (ii) becomes insolvent, makes an assignment for the benefit of creditors, or becomes subject to direct control of a trustee, receiver or similar authority, or (iii) becomes subject to any bankruptcy or insolvency proceeding.
-
-7.2.2 Elsevier may terminate this Agreement in the event (i) an Application with a material malfunction has not been cured within thirty (30) days after Elsevier become aware of the material malfunction and has notified the Developer; or (ii) for its convenience, for any reason or no reason, effective sixty (60) days after providing the Developer a written notice of termination.
-
-7.3 Effect of Termination
-
-Upon termination for any reason or expiration, Elsevier shall disable access to the APIs and any of its services. Each party shall destroy Confidential Information it has in its possession or control and You must permanently deleted all Elsevier content or other data which You stored pursuant to Your use of the APIs.
-
-8 GENERAL.
-
-8.1 Force majeure.
-
-Neither  party's delay or failure  to perform  any provision  of this Agreement  as a result of circumstances  beyond  its  control  (including,  but  not  limited  to,  war,  strikes,  fires,  floods, governmental restrictions, power failures, telecommunications or Internet failures or damage to or destruction of any network facilities or servers) shall be deemed a breach of this Agreement.
-
-8.2 Severability.
-
-The invalidity or unenforceability of any provision of this Agreement shall not affect any other provisions of this Agreement. If a court holds that this Agreement cannot be enforced as written then the parties agree to replace that part with terms and conditions that most closely match the intent of the part that cannot be enforced.
-
-8.3 Relationship.
-
-This Agreement will not be construed as creating a partnership, joint venture, fiduciary duty or any other form of legal association between the Developer and Elsevier and the Developer will not represent Elsevier to the contrary.
-
-8.4 Independent Development.
-
-Nothing in this Agreement will restrict Elsevier's right to develop, acquire, license, market, promote or distribute products or technologies that perform the same or similar functions as, or otherwise compete with, the Application.
-
-8.5 Entire Agreement.
-
-This Agreement contains the entire understanding and agreement of the parties and merges and supersedes any and all prior and contemporaneous agreements, communications, proposals and purchase orders, written or oral, between the parties with respect to the subject matter contained herein.
-
-8.6 Modification.
-
-No modification, amendment or waiver of any provision of this Agreement shall be valid unless in writing and signed by the parties.
-
-8.7 Assignment.
-
-The Developer shall not assign, transfer or license any of its rights or obligations under this Agreement  unless  it obtains  the prior written  consent  of Elsevier,  which consent  shall not unreasonably be withheld.
-
-8.8 Privacy.
-
-Elsevier maintains information about the Developer on Elsevier servers, including but not limited to Developer's registration information. The Developer agrees that Elsevier may use such information in aggregate form for marketing or other promotional purposes. Developer agrees that Elsevier may disclose such information in the good faith belief that such action is reasonably necessary: (a) to comply with the law or legal process; (b) to enforce this Agreement; or (c) to protect the rights or interests of Elsevier or others. Elsevier may contact Developer regarding Elsevier the Application submission process using the Developer's e-mail address provided during the registration process (or as updated by Developer). Such e-mail messages may contain opportunities regarding special offers and new products and/or services from Elsevier's advertisers. Developers are not permitted to collect and use end user registration and other Confidential Information without the express consent of the end user.
-
-8.9 Notices.
-
-All notices given pursuant to this Agreement shall be in writing and delivered to the party to whom such notice is directed at the address specified below or the facsimile number or electronic mail address as such party shall have designated by notice hereunder.
-
-If to Elsevier: Elsevier B.V. c/o A&G Markets, Radarweg 29, 1043 NX Amsterdam, The Netherlands.
-
-If to the Developer:  notices shall be addressed to the electronic or mailing address specified in the Developer's registration form, or such other address as either party may give the other by notice as provided in this Section.
-
-8.10 Confidentiality.
-
-During the term of this Agreement and thereafter, except as specifically provided herein and/or to the extent necessary to perform its obligation or exercise or enforce its rights hereunder, neither party shall provide or disclose to any third party, unless authorized in writing to do so by the other party or properly directed or ordered to do so by public authority, any information or matter that constitutes confidential information as to the general trade practices, email correspondence and feedback between the Developer and Elsevier, financial matters, marketing and selling strategies or customer information which are proprietary to the other party, and any documents which embody such information (collectively, the "Confidential Information"). Confidential Information shall not include any information or matter that: (i) is already known to the party disclose to was previously known to the receiving party free of any obligation to keep it confidential; (ii) is or becomes rightfully disclosed to that party by a third party not under obligation to confidentiality to the disclosing party; (iii) is or becomes publicly known by other than unauthorized disclosure.
-
-8.11 Governing Law and Venue.
+6. GOVERNING LAW AND VENUE.
 
 This Agreement will be governed by and construed in accordance with the laws of The Netherlands, and the parties irrevocably consent to the exclusive jurisdiction of the courts of The Netherlands with respect to any action or suit arising out of or pertaining to this Agreement (except where local law requires).
 
-Last revised: 31 January 2014
+Last revised: 5-July-2016
