@@ -17,6 +17,8 @@ the Application's usage of the API Service negatively affects the availability o
 the Application is in breach of the API's Content Usage Policies on http://dev.elsevier.com/policy.html
 2.2 In a situation of breach of the terms and conditions of this Agreement, Elsevier reserves the right to block, change, suspend, remove or disable access to the APIs and any of its services at any time upon reasonable notice to Developer.
 
+2.3 Elsevier reserves the right to deactivate API Keys that have not been used to access the APIs for 90 days.
+
 3. DEVELOPER RIGHTS AND RESPONSIBILITIES.
 
 3.1 The Developer represents and warrants that:
@@ -41,7 +43,7 @@ The API service is provided on an "as is" and "as available" basis without warra
 
 5. TERM AND TERMINATION.
 
-The term of this Agreement shall commence on the date on which the Developer has accepted this Agreement and shall continue until either party terminates the Agreement in writing or the API Key has not been used to access the API Service for at least 90 days.
+The term of this Agreement shall commence on the date on which the Developer has accepted this Agreement and shall continue until either party terminates the Agreement in writing or the API Key is deactivated by Elsevier.
 
 6. GOVERNING LAW AND VENUE.
 
