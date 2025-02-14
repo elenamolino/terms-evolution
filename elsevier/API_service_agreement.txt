@@ -3,50 +3,60 @@ PLEASE READ THE FOLLOWING TERMS AND CONDITIONS CAREFULLY. THESE TERMS AND CONDIT
 
 1 ACKNOWLEDGEMENT AND ACCEPTANCE
 
-1.1 The application programmable interfaces service (the "API Service") owned and operated by Elsevier B.V. ("Elsevier") is provided to ("You", "Your" or "the Developer") under the terms and conditions of this API Service Agreement. You confirm that You have the right and authority to enter into this Agreement. You accept and agree to the terms and conditions of this Agreement on Your own behalf and/or on behalf of Your company, institute or organization as its authorized legal representative
+1.1The application programmable interfaces service (the 'API Service') owned and operated by Elsevier B.V. ('Elsevier') is provided to you ('You') under the terms and conditions of this API Service Agreement ('Agreement'). You confirm that You have the right and authority to enter into this Agreement. You accept and agree to the terms and conditions of this Agreement and the terms and conditions of the agreement between Elsevier and Your institution, company or organization or if not applicable, as agreed between Elsevier and You for Your specific use case.
 
-1.2 Elsevier reserves the right, at its sole discretion, to change the terms of this Agreement at any time with reasonable advance notice given to the Developer. When these changes are made, Elsevier will make a new copy of the Agreement available on the API Service's web site. Elsevier will also post a notification on the API Service's web site describing the modifications made.
+1.2 Elsevier reserves the right, at its sole discretion, to change the terms of this Agreement at any time with reasonable advance notice given to You. When these changes are made, Elsevier will make a new copy of the Agreement available on the API Service’s web site. Elsevier will also post a notification on the API Service's web site describing the modifications made.
 
-1.3 Elsevier grants You a limited license to use the, application programmable interfaces ("APIs"), data, files and other materials provided by Elsevier, to develop and test Your software application ("Application") and to integrate the Application with the API, subject to the usage restrictions as set forth in the API's Content Usage Policies on http://dev.elsevier.com/policy.html. All notices given pursuant to this Agreement shall be in writing and delivered to email address as indicated in the developer portal at dev.elsevier.com.
+1.3 Elsevier grants You a limited license to use the API Service, data and other materials provided by Elsevier in accordance with the terms and conditions of the agreement between Elsevier and Your institution, company or organization and Schedule 1, which includes Elsevier's security requirements. You will need to ensure that Your institution, company or organization complies with this Schedule 1.
 
-2. ELSEVIER RIGHTS AND OBLIGATIONS.
+2. 2. YOUR RIGHTS AND RESPONSIBILITIES.
 
-2.1 After You have accepted this Agreement, Elsevier will issue an API Key to You for use with the API Service. Elsevier retains the right to immediately suspend the Application's access to the API Service if, in Elsevier's sole judgment:
+2.1 You represent and warrant that:
 
-the Application's usage of the API Service negatively affects the availability or performance of the API Service, or
-the Application is in breach of the API's Content Usage Policies on http://dev.elsevier.com/policy.html
-2.2 In a situation of breach of the terms and conditions of this Agreement, Elsevier reserves the right to block, change, suspend, remove or disable access to the APIs and any of its services at any time upon reasonable notice to Developer.
+You will not use Elsevier content other than as permitted by the terms and conditions of the agreement between Elsevier and Your institution, company or organization;
+You will use the API access credentials issued by Elsevier upon execution of this Agreement, and no other API access credentials issued to You and/or to other users;
+You will avoid excessive and unnecessary use of the API Service that may cause a performance degradation of the API Service.
+2.2 You acknowledge that all right, title and interest in and to the API Service, the API access credentials, any related Elsevier content, and any derivative works based upon the Elsevier content, remain with Elsevier and its suppliers, except as expressly set forth in this Agreement or the agreement between Elsevier and Your institution, company or organization.
 
-2.3 Elsevier reserves the right to deactivate API Keys that have not been used to access the APIs for 90 days.
+2.3 You will be solely responsible and hold Elsevier harmless for all costs, expenses, losses and liabilities incurred, and activities undertaken by You in connection with the API Service.
 
-3. DEVELOPER RIGHTS AND RESPONSIBILITIES.
+3. DISCLAIMER.
 
-3.1 The Developer represents and warrants that:
+The API Service is provided on an 'as is' and 'as available' basis without warranties of any kind, either express or implied, including but not limited to warranties of merchantability or fitness for a particular purpose. Except as expressly stated in this Agreement or the agreement between Elsevier and Your institution, company or organization, Elsevier disclaims all liability to You in connection with this Agreement.
 
-3.1.1 the Application will not use Elsevier content other than allowed by the API's Content Usage Policies on http://dev.elsevier.com/policy.html;
+4. TERM AND TERMINATION.
 
-3.1.2 the Application will use the API Key issued by Elsevier upon execution of this Agreement, and no other API Key issued for use by other applications and/or to other developers;
+The term of this Agreement shall commence on the date on which You have accepted this Agreement and shall continue until the API access credentials are deactivated by Elsevier or the terms and conditions of the agreement between Elsevier and Your institution, company or organization have terminated whichever is earlier.
 
-3.1.3 the Application will avoid excessive and unnecessary use of the API Service that may cause a performance degradation of the API Service;
+Subject to the terms and conditions of this Agreement and the terms and conditions of the agreement between Elsevier and Your institution, company or organization, You will promptly and permanently delete all copies (including back-up copies) of Elsevier content received via the API Service. If requested by Elsevier, You shall confirm to Elsevier in writing that You have complied with this obligation.
 
-3.1.4 the Developer acknowledges that all right, title and interest in and to the Elsevier content, and any derivative works based upon the Elsevier content, remain with Elsevier and its suppliers, except as expressly set forth in this Agreement, and that the unauthorized redistribution of the Elsevier content is not permitted.
+5. GOVERNING LAW AND VENUE.
 
-3.2 The Developer will be solely responsible and hold Elsevier harmless for all costs, expenses, losses and liabilities incurred, and activities undertaken by the Developer in connection with the API Service.
+This Agreement will be governed by and construed in accordance with the laws of The Netherlands, and the parties irrevocably consent to the exclusive jurisdiction of the courts of The Netherlands with respect to any action or suit arising out of or pertaining to this Agreement (except where local law requires otherwise).
 
-3.3 Developer shall obtain written permission in advance from Elsevier to use Elsevier's trademarks, logos or other brand features for promoting the Developer's Application. Any press releases regarding this Agreement or the relationship of the parties shall require the prior approval of the parties.
+SCHEDULE 1
 
-3.4 The Developer shall not display any advertising inside the Application or use any content as obtained via the API outside the Application, unless permitted by Elsevier in writing.
+INFORMATION SECURITY REQUIREMENTS AND AUDIT RIGHTS
 
-4. DISCLAIMER.
+1 Information Security Program.
 
-The API service is provided on an "as is" and "as available" basis without warranties of any kind, either express or implied, including but not limited to warranties of merchantability or fitness for a particular purpose. Except as expressly stated in this Agreement, each party disclaims all liability to the other party in connection with the parties' performance of this Agreement and in no event will the infringing party be liable to the other party for special, indirect or consequential damages including but not limited to loss of profits, loss of business or unfitness for user purposes.
+You or Your institution, company or organization shall implement and document appropriate policies and procedures (1) covering its administrative, physical and technical safeguards and (2) relevant to access, use, loss, alteration, disclosure, storage, destruction and control of information that are measured against objective standards and controls ('Your Information Security Program'). You shall, without undue delay, remediate any deficiencies identified in Your Information Security Program.
+Your Information Security Program shall, at a minimum (1) address risks presented by processing, including risks associated from accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, Elsevier data transmitted, stored or otherwise processed (2) account for known and reasonably anticipated threats and continually monitor for new threats; (3) meet or exceed industry best practices for which, among other items, address the nature, scope, context and purposes of processing and the risks associated with the severity for the confidentiality and integrity of Elsevier data, and (4) include all appropriate technical and organizational measures ensuring a level of security appropriate to the risk, including as appropriate, (a) ensuring the confidentiality, integrity, availability and resilience of the systems associated with the storage and processing of Elsevier data and (b) such technical and organizational measures are regularly tested, assessed, and evaluated for effectiveness to guarantee the security of the data and processing activities as they relate to Elsevier data.
+You shall review all Your users and ensure their access to Elsevier data does not create: (1) an unacceptable risk of misuse or (2) inappropriate access to such information ('Personnel Reviews'). You shall ensure the substance and manner of any Personnel Reviews. Personnel Reviews shall conform to all applicable laws. If You at any time become aware that a user to whom You have granted access to the services creates a risk, You will determine the user's suitability to continue to access the services, or information derived therefrom, under this Agreement and, if appropriate, will terminate such access.
+2 Your Data Breach.
 
-5. TERM AND TERMINATION.
+You have in place documented, tested and updated incident handling procedures which shall comply with all applicable laws.
 
-The term of this Agreement shall commence on the date on which the Developer has accepted this Agreement and shall continue until either party terminates the Agreement in writing or the API Key is deactivated by Elsevier.
+In addition to, and not in lieu of, the obligations in this Agreement between the parties, if You learn or have reason to believe that user IDs, the services, or any information to which You otherwise have access under the Agreement, has led to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, Elsevier data transmitted, stored or otherwise processed ('Your Data Breach'), You will:
 
-6. GOVERNING LAW AND VENUE.
+notify Elsevier immediately and within seventy-two (72) hours if practicable, but in all cases without undue delay, of confirmation of Your Data Breach. Notice shall be provided via email to security@elsevier.com;
+provide to Elsevier a reasonable summary of the circumstances surrounding Your Data Breach;
+co-operate reasonably with Elsevier's requests for information regarding Your Data Breach;
+without undue delay investigate the situation;
+obtain written consent from Elsevier, not to be unreasonably withheld, prior to disclosing Elsevier or the services to any third party in connection with Your Data Breach;
+provide all proposed third party notification materials, if such materials will identify Elsevier products or its services, to Elsevier for review and approval, such approval not to be unreasonably withheld or delayed.
+In the event of Your Data Breach, Elsevier may, in its sole discretion, take immediate action, including suspension or termination of Your account, without further obligation or liability of any kind.
 
-This Agreement will be governed by and construed in accordance with the laws of The Netherlands, and the parties irrevocably consent to the exclusive jurisdiction of the courts of The Netherlands with respect to any action or suit arising out of or pertaining to this Agreement (except where local law requires).
+3 Elsevier Audit Rights.
 
-Last revised: 5-July-2016
+You agree that Elsevier may periodically, but not more than once per calendar year unless a documented Your security vulnerability arises, review, with reasonable notice, Your Information Security Program including its facilities, policies and procedures, and all relevant documentation, including logs, practices and operations. All reviews will be at Elsevier's expense. If there is any failure to co-operate with Elsevier, or if any review reveals the lack of a compliance with the terms and conditions of this Agreement, Elsevier may deny or limit access to the services and will be under no obligation to reduce the fees payable by You to the extent that it is unable to provide the services, and may, at its discretion pursue legal action.
